@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Sofa primium",
+        "price": 499.99,
+        "image": "image/sofa1.avif",
+        "description": "A comfortable and stylish sofa, perfect for any living room."
+    },
+    {
+        "id": 2,
+        "name": "Sofa mid",
+        "price": 299.99,
+        "image": "image/sofa2.webp",
+        "description": "A relaxing recliner with a plush design."
+    },
+    {
+        "id": 3,
+        "name": "Sofa special",
+        "price": 399.99,
+        "image": "image/sofa3.jpg",
+        "description": "A modern dining table that fits six people comfortably."
+    },
+    {
+        "id": 4,
+        "name": "Sofa classic",
+        "price": 99.99,
+        "image": "image/sofa4.avif",
+        "description": "A stylish and ergonomic chair for your home office."
+    },
+    {
+        "id": 5,
+        "name": "Sofa vestern",
+        "price": 149.99,
+        "image": "image/sofa5.avif",
+        "description": "A spacious bookshelf to keep all your books organized."
+    },
+    {
+        "id": 6,
+        "name": "Sofa morden",
+        "price": 99.99,
+        "image": "image/sofa6.avif",
+        "description": "A stylish and ergonomic chair for your home office."
+    }
+]
